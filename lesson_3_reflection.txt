@@ -1,7 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-    In a group project, or when I don't want to work in a one machine.
+    In a group project, or when I don't want to work in only one machine.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
@@ -34,4 +34,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I want to implement a new feature that I'm not sure how would work.
+	When I want to experiment with the code
+ 
